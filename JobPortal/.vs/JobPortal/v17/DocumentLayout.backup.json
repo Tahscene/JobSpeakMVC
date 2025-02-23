@@ -1,17 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tahscene\\Desktop\\shubornaaaaaa\\JobPortal\\",
+  "WorkspaceRootPath": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tahscene\\Desktop\\JobsSpeakSDMVC\\JobPortal\\JobPortal\\Views\\JobSeeker\\JobSeekerProfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|c:\\users\\tahscene\\desktop\\fahim\\jobportal\\jobportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|C:\\Users\\Tahscene\\Desktop\\shubornaaaaaa\\JobPortal\\jobportal\\views\\admin\\jobseekerprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\admin\\jobseekerprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|c:\\users\\tahscene\\desktop\\fahim\\jobportal\\jobportal\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|C:\\Users\\Tahscene\\Desktop\\shubornaaaaaa\\JobPortal\\jobportal\\views\\admin\\jobseekers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\admin\\jobseekers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|c:\\users\\tahscene\\desktop\\fahim\\jobportal\\jobportal\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C14AC6-3624-4799-A83C-A60C3D32CD87}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,39 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JobSeekerProfile.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tahscene\\Desktop\\JobsSpeakSDMVC\\JobPortal\\JobPortal\\Views\\JobSeeker\\JobSeekerProfile.cshtml",
-              "RelativeDocumentMoniker": "..\\..\\JobsSpeakSDMVC\\JobPortal\\JobPortal\\Views\\JobSeeker\\JobSeekerProfile.cshtml",
-              "ToolTip": "C:\\Users\\Tahscene\\Desktop\\JobsSpeakSDMVC\\JobPortal\\JobPortal\\Views\\JobSeeker\\JobSeekerProfile.cshtml",
-              "RelativeToolTip": "..\\..\\JobsSpeakSDMVC\\JobPortal\\JobPortal\\Views\\JobSeeker\\JobSeekerProfile.cshtml",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAH4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T06:49:18.242Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JobPortal\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:05:33.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "JobPortal\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:04:44.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "JobSeekers.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tahscene\\Desktop\\shubornaaaaaa\\JobPortal\\JobPortal\\Views\\Admin\\JobSeekers.cshtml",
-              "RelativeDocumentMoniker": "JobPortal\\Views\\Admin\\JobSeekers.cshtml",
-              "ToolTip": "C:\\Users\\Tahscene\\Desktop\\shubornaaaaaa\\JobPortal\\JobPortal\\Views\\Admin\\JobSeekers.cshtml",
-              "RelativeToolTip": "JobPortal\\Views\\Admin\\JobSeekers.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T06:48:32.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JobSeekerProfile.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tahscene\\Desktop\\shubornaaaaaa\\JobPortal\\JobPortal\\Views\\Admin\\JobSeekerProfile.cshtml",
-              "RelativeDocumentMoniker": "JobPortal\\Views\\Admin\\JobSeekerProfile.cshtml",
-              "ToolTip": "C:\\Users\\Tahscene\\Desktop\\shubornaaaaaa\\JobPortal\\JobPortal\\Views\\Admin\\JobSeekerProfile.cshtml",
-              "RelativeToolTip": "JobPortal\\Views\\Admin\\JobSeekerProfile.cshtml",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T06:48:28.956Z"
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Repository\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Repository\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\Desktop\\fahim\\JobPortal\\JobPortal\\Repository\\AdminRepository.cs",
+              "RelativeToolTip": "JobPortal\\Repository\\AdminRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:04:28.173Z",
+              "EditorCaption": ""
             }
           ]
         }

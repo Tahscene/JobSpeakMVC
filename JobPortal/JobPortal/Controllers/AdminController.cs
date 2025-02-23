@@ -14,10 +14,8 @@ namespace JobPortal.Controllers
     [Authorize]
     public class AdminController : Controller
     {  
-        /// <summary>
         /// Admin index page
-        /// </summary>
-        /// <returns></returns>
+       
         public ActionResult Index()
         {
             try
@@ -32,10 +30,9 @@ namespace JobPortal.Controllers
             }
         }
         
-        /// <summary>
+      
         /// Add Skills
-        /// </summary>
-        /// <returns></returns>
+       
         public ActionResult AddSkills()
         {
             return View();
@@ -64,10 +61,9 @@ namespace JobPortal.Controllers
                 return View("Error");
             }
         }
-        /// <summary>
+  
         /// Show skills
-        /// </summary>
-        /// <returns></returns>
+      
         public ActionResult Skills()
         {
             PublicRepository publicRepository = new PublicRepository();
@@ -158,11 +154,10 @@ namespace JobPortal.Controllers
                 return View("Error");
             }
         }
-        /// <summary>
+       
         /// Delete skill
-        /// </summary>
         /// <param name="id">Skill id</param>
-        /// <returns></returns>
+       
         [HttpGet]
         public ActionResult DeleteSkill(int id)
         {
@@ -181,11 +176,11 @@ namespace JobPortal.Controllers
                 return View("Error");
             }
         }
-        /// <summary>
+      
         /// Delete category
-        /// </summary>
+      
         /// <param name="id">Skill id</param>
-        /// <returns></returns>
+      
         [HttpGet]
         public ActionResult DeleteCategory(int id)
         {
@@ -204,11 +199,10 @@ namespace JobPortal.Controllers
                 return View("Error");
             }
         }
-        /// <summary>
+       
         /// Get details of the jobs
-        /// </summary>
+       
         /// <param name="id">Job id</param>
-        /// <returns></returns>
         public ActionResult JobDetails(int id)
         {
             PublicRepository publicRepository = new PublicRepository();
@@ -489,11 +483,10 @@ namespace JobPortal.Controllers
                 return View(ex.Message);
             }
         }
-        /// <summary>
+    
         /// View applicant details
-        /// </summary>
         /// <param name="id">Job seeker id</param>
-        /// <returns></returns>
+  
         public ActionResult JobSeekerProfile(int id)
         {
             JobSeekerRepository jobSeekerRepository = new JobSeekerRepository();
